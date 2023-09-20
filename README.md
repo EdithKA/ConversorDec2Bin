@@ -17,7 +17,7 @@
 
 ![Una imagen de Luffy](https://github.com/EdithKA/ConversorDec2Bin/blob/main/assets/images/luffy.png)
 
-
+___Edith Kamerman___
 
 
 
