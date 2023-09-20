@@ -9,10 +9,18 @@
 - <sup> 4 </sup> con 4 bits en inario es 0100
 - <sub> 4 </sub> con 8 bits en binario será 0000100
 
-> [!IMPORTANT]
-> El programa utilizado puede probarse en la siguiente web https://www.programiz.com/python-programming/online-compiler/
+>[!WARNING]
+>El programa utilizado puede probarse en la siguiente web https://www.programiz.com/python-programming/online-compiler/
+>
 
 🤖
+
+![Una imagen de Luffy](https://github.com/EdithKA/ConversorDec2Bin/blob/main/assets/images/luffy.png)
+
+
+
+
+
 
 
 
